@@ -12,5 +12,5 @@ Hello peiyu! hello git!
 Hello peiyu! hello git!   master
 Hello peiyu! hello git!
 Hello peiyu! hello git!
-Hello peiyu! hello git!
+Hello peiyu! hello git!  hot-fix
 
