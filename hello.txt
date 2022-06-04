@@ -18,3 +18,5 @@ Hello peiyu! hello git!  hot-fix
 0000000000000000000000000000  by pei123456
 33333333333333333333333333333
 郫县剑法好
+
+同意一下 pullrequest
